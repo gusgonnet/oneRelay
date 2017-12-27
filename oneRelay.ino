@@ -17,8 +17,8 @@
 // You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 // No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 //
-// github: https://github.com/gusgonnet/
-// hackster: https://www.hackster.io/gusgonnet
+// github: https://github.com/gusgonnet/oneRelay
+// hackster: https://www.hackster.io/gusgonnet/christmas-tree-928462
 //
 // Free for personal use.
 //
